@@ -1,0 +1,9 @@
+
+{
+  "name": "Civic Resolve",
+  "description": "An AI-powered municipal complaint resolution system featuring agentic orchestration for classification, task coordination, and SLA monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
